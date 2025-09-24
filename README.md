@@ -66,7 +66,7 @@ I also create small tutorials & walkthroughs — check my pinned repos.
 
 ### 📫 Contact
 - Email: [saqib.id2050@gmail.com](mailto:saqib.id2050@gmail.com)  
-- Portfolio: https://vercel.app  
+- Portfolio: http://saqib-4.netlify.app/  
 - LinkedIn: https://www.linkedin.com/in/saqib-anjum/  
 - GitHub: https://github.com/Saqib-Anjum
 
